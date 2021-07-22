@@ -88,18 +88,20 @@ h1 {
     border-bottom: 1px solid #E4E4E4;
     margin-bottom: 2rem;
     display: flex;
-    width: 100%;
+    
     position: fixed;
     top: 0;
     left: 0;
     z-index: 100;
     background-color: var(--body-color);
+    width: 100%;
 }
 nav {
     height:  var(--header-height);
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
 }
 
 .logo {
